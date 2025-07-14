@@ -4,7 +4,7 @@ var myAge = 25;
 //variable earlyYears being declared and set to 2 (can change)
 var earlyYears = 2;
 
-//earlyYears being subtracted by 10.5 years 
+//earlyYears being multiplied by 10.5 years 
 earlyYears *= 10.5;
 
 //variable laterYears being set to myAge subtracted by 2 eyars since earlyYears accounts for 2 years
